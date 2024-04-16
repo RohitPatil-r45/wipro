@@ -1,0 +1,17 @@
+table,
+thead,
+tbody,
+tr,
+th,
+td {
+  border: 1px solid;
+  margin-bottom: 1rem;
+}
+
+.form div {
+  margin-bottom: 1rem;
+}
+
+.form span {
+  color: red;
+}
